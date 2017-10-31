@@ -14,12 +14,12 @@ https://youtu.be/aySpvTFteiQ
 
 ### 動作環境
 
-* Java 8 が動作する環境  
+* Java 9 が動作する環境  
 * xlsx ファイルが編集できる環境（推奨：Microsoft Office 動作確認：LibreOffice)
 
 ### 利用方法
 
-1. Java 8（ https://java.com/ja/download/ ）をインストールします。<br />※Macユーザーの方は、JDK8 （  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html ） をインストールしてください。
+1. Java 9（ https://java.com/ja/download/ ）をインストールします。<br />※Macユーザーの方は、JDK9 （  http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html ） をインストールしてください。
 1. GitHubからCHiLO Producer( https://github.com/cccties/CHiLO-Producer )をダウンロードし、展開します。<br />
 -> 全体の構成はこちらを参照：[dir.md](dir.md)
 
@@ -128,12 +128,12 @@ https://youtu.be/ETXPHxJdXro
 
 ### Operating environment
 
-* Environment for Java 8 to operate
+* Environment for Java 9 to operate
 * Environment to edit xlsx files（Recommended：Microsoft Office operation check：LibreOffice)
 
 ### How to Use CHiLO Producer
 
-1. Install Java 8(https://java.com/ja/download/). <br />※Mac users: Install JDK8 ( http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html )
+1. Install Java 9(https://java.com/ja/download/). <br />※Mac users: Install JDK9 ( http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html )
 1. Download CHiLO Producer( https://github.com/cccties/CHiLO-Producer ) from GitHub and unzip.<br />
 -> For overall structure, refer to：[dir_en.md](dir_en.md)
 
