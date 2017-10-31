@@ -56,8 +56,8 @@
   </build>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.9</maven.compiler.source>
+    <maven.compiler.target>1.9</maven.compiler.target>
   </properties>
   <dependencies>
     <!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
@@ -133,5 +133,12 @@
       <artifactId>xmlbeans</artifactId>
       <version>2.6.0</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/javax.activation/activation -->
+    <dependency>
+      <groupId>javax.activation</groupId>
+      <artifactId>activation</artifactId>
+      <version>1.1.1</version>
+    </dependency>
+
   </dependencies>
 </project>
